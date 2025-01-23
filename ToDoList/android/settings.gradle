@@ -1,0 +1,4 @@
+rootProject.name = "ToDoList"
+
+// Include the app module:
+include ':app'
